@@ -1,0 +1,4 @@
+target 'Handzap' do
+use_frameworks!
+pod 'JVFloatLabeledTextField'
+end
